@@ -1,0 +1,57 @@
+Hero Section:
+	Subtitle: Repair My Device
+	Title: Quick Repair Process
+	Button1: Start Repair
+	Button2: Track your Repair
+	bottom header row: book an appointment, request for pick up and delivery, get quote
+
+About:
+	Title: Welcome to WefixTech
+	Body: We are the best and your preferred Phone, Tablet and Laptop Repair Center. Any Brand, Any Make, Any Issue. Relax We can fix It. When your laptop, phone, or tablet breaks, your access to work, entertainment, or loved ones is disrupted. But we got you covered. WefixTech is a professional repair store in Nairobi committed to restoring your favorite gadgets back to life. We are your destination for same-day repairs done right.
+	Subtitle: We Fix All Issues
+	Bullets on what they fix: Cracked Screen, Water Damage, Damaged Charging Port, Speaker Not Working Broken Buttons No Signal
+	Button1: Fix your device
+
+Why Trust Us: 
+	Title: Why People Trust us
+	Body: Our expert technicians will repair your device quickly & efficiently. As you track the repair progress on our online portal
+	Reasons: Expertise, warranty on repair, free diagnostic, low price guarantee, quick fix, get standby device as yours is fixed, pick up and drop of, track your repair
+
+How it works: 
+	Title: How the repair process Works
+	Body: Repair process made easier and better. Get yours fixed today!
+	Step 1: Talk to us about your phone's or laptop's issue: Request
+	Step 2: Get a quote for such a repair: We will contact you immediately with the Repair Price Estimate that is convenient for you.
+	Step 3: Bring or Mail in your device: Walk-In with Your device at our repair Center, Schedule for FREE Device pick-up and delivery. Are you outside Nairobi, request for our secure mail in service.
+	Step 4: Quick Fix: Our repair gurus will repair your device professionally and conveniently. Get to track your repair online.
+
+Our Services: 
+	Title: Our Services
+	Body: We work with all kinds of businesses, schools, and organizations to provide high-quality repairs at prices that your accountant will feel good about.
+	Services:
+		Smartphone and iPhone Repair: Any brand of smart gadget, any issue We can fix it professionally and conveniently
+		Laptop and Mac Book Repair: Activities done by your laptop or mac book should not disrupted by breakdowns that can either be fixed or avoided. We can fix it!
+		iPad and Tablet Repair: We quickly repair all models of iPads. Whether you have a damaged speaker or broken screen, we can fix it.
+		Gaming console repair: We also repair other IT gadgets including PS4, Xbox, bluetooth headphones, printers, etc. Have a broken device? You can trust us to can fix it.	
+		Smartwatch repair: If Samsung Gear, Apple Watch or any other brand of Smart Watch is in need of repairs, don’t despair! WefixTech smartwatch repair center will have your precious piece of tech back within a day.
+		Data Recovery Services: Lost data? We recover all lost data from any storage device. We can fix it!
+
+Testimonials:
+	Title: Client Testimonials
+	Testimonials:4 Stars: I loved their customer service. I did have to visit the location in person to get updates on my laptop, but overall, I was happy with the outcome. I'd give the service a solid 8/10 - but I appreciate the effort!
+		5 stars: I was thrilled with the welcoming services I received from them. I took my laptop which was overheating and the battery draining quickly. Now my laptop is working better than ever, and sincerely speaking, I couldn't be more satisfied with the results. Five stars aren't enough - I'd give them 10/10 stars if I could!
+		5 stars: My experience with them was incredible. I happened to visit their office with my infinix hot 30 that had a faulty speaker, which now has a clear sound.(thanks to them).Though they need to improve on the time taken before handover.
+
+Milestones: 
+	Title: Our Milestones
+	Body: We are proud of our victories and achievements
+	Milestones: 30,722: Phones Fixed, 15,275: Laptops Fixed, 1,207: Recovered, 88%: Satisfied Customers
+
+FAQ: 
+	Title: General Questions
+	FAQS: What devices can Wefix Tech repair?: At Wefix Tech, we repair a wide range of gadgets namely smartphones, iPads, tablets, gaming consoles, laptops, MacBook’s, and iPhone.
+		What Is the repair Process?: You can just walk in Contact us on email, call, WhatsApp or through our website.
+Decide if you want to walk in or opt for pick up an delivery or mail in service
+We will fix your device and you pay after confirming that the repair has been done right.
+Rate our services after the repair
+		Do you offer any type of warranty on your repairs?: Yes, all repairs carry a 90-day parts and labor warranty which means if you have any issues related to the repair within 90 days we will take care of it free of charge!

@@ -1,0 +1,45 @@
+
+$primary: hsl(230, 74, 63);
+$secondary: hsl(269, 73, 63);
+$dark: hsl(230, 74, 5);
+$light: hsl(230, 74, 97);
+// import functions and variables 
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+$custom-spacers: (
+    r: $spacer * 0.75,
+    t: $spacer * 2,
+    s: $spacer * 2.5,
+    6: $spacer * 3.5,
+    7: $spacer * 4,
+    8: $spacer * 4.5,
+    9: $spacer * 5,
+    10: $spacer * 5.5,
+    11: $spacer * 6,
+    12: $spacer * 6.5,
+    13: $spacer * 7,
+    14: $spacer * 7.5,
+    15: $spacer * 8,
+    16: $spacer * 8.5,
+    17: $spacer * 9,
+    18: $spacer * 9.5,
+    19: $spacer * 10
+);
+
+$custom-colors: (
+    white: $white,
+    primary-70: #7A8DEB,
+    primary-80: #A6B3F2,
+    primary-90: #D3D9F8,
+    primary-95: #E9ECFC,
+    secondary-70: #B17BEA,
+    secondary-80: #CBA7F1,
+    secondary-90: #E5D3F8,
+    secondary-95: #F2E9FC,
+);
+
+$theme-colors: map-merge($custom-colors, $theme-colors );
+$spacers: map-merge($custom-spacers, $spacers);
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../node_modules/bootstrap-icons/font/bootstrap-icons.min.css"

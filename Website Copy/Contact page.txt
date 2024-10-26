@@ -1,0 +1,6 @@
+Hero Section: 
+	Title: Contact Us
+	Body: We have a passion for fixing your favorite gadgets. We’re pretty good at it too.
+
+Ways You Can Reach Out:
+	Body: We’ve got a team ready to help with any issue you may be having.

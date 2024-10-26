@@ -1,0 +1,32 @@
+Hero Section: 
+	Title: Let Us Introduce Ourselves
+	Body: We have a passion for fixing your favorite gadgets. We’re pretty good at it too.
+	
+About Section: 
+	Title: Let's introduce ourselves
+	Subtitle: Who we are
+	Body 1: At Wefix Tech we’re obsessed with gadgets and Tech. We offer any help, whether you need a repair, have a question or issue with your device. We love all things tech and we’re experts at what we do.
+
+Wefix Tech is a professional repair company in Nairobi that primarily deals with smartphones, iPhones, tablets, iPads, laptops, Mac books, game consoles and data recovery.
+	Body 2: WefixTech repairs all brands of phones, tablets and laptops (it’s in our name after all). From the classic phone drop in the parking lot, the laptop you crashed on the office to the tablet in the toilet. We’ve seen it all. We understand how traumatic it is when you break your favorite devices and we want you to feel better the moment you let us handle your mess.
+	Body 3: We’re not overly sentimental, but we do what we do because we care about people and their tech. That’s why WefixTech works; we put our customers above anything else. Of course, we love fixing cracked screens ,batteries and faulty charging systems, but we get our satisfaction from helping out folks who lost their connection to the outside world.
+
+Our Story: 
+	Started as a tech accessories outfit, the brand saw an opportunity to solve a market gap, an opportunity to explore a bigger agenda and purpose. More importantly, create solutions that would impact the lives of many. Our Inspiration came about when we realized that there is an influx of mobile phones and other tech gadgets in the market, smart and feature based, and yet many of these brands barely offer any form of proper after sale support, both software and hardware. The device owners were then left without an option but to deal with a repair market which is unstructured and unprofessional. In that way, many people prefer to buy new a device instead of repairing the faulty device. Repair being way cheaper than buying new devices, there is a lot of wastage of money instead of saving money to fund and improve livelihoods. We saw the need to revolutionize the device repair market and provide world-class repair and customer service to save our clients money and reduce on E-waste.
+
+Core Values: 
+	INTEGRITY | Honest and Principled: “Integrity is what you do when no one is watching; it’s doing the right thing all the time, even when it may work to your disadvantage.” – John Doe. We guarantee device data protection, use of quality parts, and genuine diagnosis and professional repair process. We keep our word; we are Transparent for you.
+	CARE | Customer First: We formed WefixTech using this foundational core value. We highly believe in the value of people, our customers! We assure quality at every stage of customer relationship. Each day our customers continue to tell us how happy they are and well, that makes this job all worth.
+	EMPOWERMENT | Information & Tools: At WefixTech, we ensure availability of precise information and the tools they need to achieve results and serve our clients even better. For our clients, we understand this is very essential in taking care of their devices and to make informed decisions on Tech. Our passion for this work can be felt in every repair we deliver!
+
+Why choose us:
+	Convenience: Whether you are at Home, Office or School or we come for your device, fix and deliver right back before you know it! You can drop your device at our workshop and get a quick repair. Out of Nairobi, mail in your device through G4s or your preferred courier. Enjoy the convenience of our pick up, delivery and mail-in services.
+	Free Diagnostics: We believe in a transparent repair process. Have no idea of the issue(s) with your device? We would be happy to diagnose it for free. Our dedicated engineers will then give a comprehensive report of the diagnosis, give a repair option and a quote for such a repair!
+	Expert Technicians: WefixTech has a team of skilled and innovative engineers who guarantee an expert resolution to your problem Our Technicians are Fully Certified and Well Trained!
+	Low Price Guarantee: Getting your device repaired shouldn’t break your bank. Our low-price guarantee ensures that we always offer upfront prices to our customers without compromising the quality of parts or service.
+	Quick Repairs: From friendly and informative technicians, to online repair tracking, we make repair easy. We know how important your device is to you, so we promise to return it to you as quickly as possible, and keep you informed every step of the way. Most of our popular repairs can even be performed while you wait! (40Mins-2hrs)
+	90-Days Warranty: In the rare event that you experience an issue with your repaired device, we back all our repairs with a 90-days, hassle free warranty. We’ve got you covered even after repairing with us
+	Data Protection: WefixTech team operates in line with strict data protection and privacy guidelines. Be rest assured that you are in safe hands when asking us perform iPhone repairs, iPad repairs, Laptop repairs and smartphone repairs. All the information on your devices is safe with us. We got all you information protected!
+	World Class Customer Service: We believe our customers deserve nothing less than the best so we encourage working a little harder and going a little further to show our customers that we truly want to WOW them. From timely feedback, to solving any after repair warranty issues we are here for you.
+	
+	
